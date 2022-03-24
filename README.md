@@ -1,7 +1,9 @@
-# Objectif de l'exercice : Trouver la valeur maximum dans un tableau d'entier avec javascript ES6.
+# Objectif de l'exercice : Trouver la valeur maximum dans un tableau d'entiers avec javascript ES6.
 
-Vous devrez développer votre algorithme sans avoir recours aux fonctions natives de javascript (Math.max(), sort(), etc...)
+Vous devrez développer votre algorithme sans avoir recours aux fonctions natives de javascript (Math.max(), sort(), etc...).
 Mettez vous dans la peau du développeur qui crée la fonction native permettant de réaliser cette objectif.
+
+Les noms des variables doivent être explicite.
 
 Vous pouvez coder à partir du code suivant:
 
