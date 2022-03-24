@@ -14,7 +14,7 @@ const findMaxNumber = (arrayOfNumber) => {
     //Todo...
 }
 
-findMaxNumber(numbers)
+console.log(findMaxNumber(numbers))
 // => 23
 ```
 
